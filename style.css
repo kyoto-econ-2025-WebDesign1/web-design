@@ -68,7 +68,6 @@ dt {
   font-weight: bold;
   color: orange;
   margin-top: 15px;
-  font-size: 1.1em;
 }
 
 dd {
@@ -80,6 +79,6 @@ dd {
 footer {
   text-align: center;
   margin-top: 40px;
-  font-size: 0.9em;
+  font-size: 12px;
   color: #777;
 }
